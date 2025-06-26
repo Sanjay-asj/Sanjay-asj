@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 An agile learner
 
 - 📫 How to reach me **sanjaydoss737@gmail.com**
 
