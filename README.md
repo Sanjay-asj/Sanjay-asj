@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sanjaydoss737@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/WyZBK](https://shorturl.at/WyZBK)
+- 📄 Know about my experiences https://shorturl.at/DC7u5
 
 - ⚡ Fun fact **I like to make Youtube Videos.**
 
